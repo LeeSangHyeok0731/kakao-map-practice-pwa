@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Kakao Map",
+  "name": "kakao * pwa",
   "icons": [
     {
       "src": "알맞은 faker.png",
