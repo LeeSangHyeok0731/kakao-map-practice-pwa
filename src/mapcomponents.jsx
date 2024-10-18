@@ -4,7 +4,7 @@ const MapComponent = () => {
   useEffect(() => {
     // 카카오 맵 API 스크립트 로드 확인
     const script = document.createElement("script");
-    script.src = "//dapi.kakao.com/v2/maps/sdk.js?appkey=65d94ee5ab33b4f814011427162f4662";
+    script.src = "//dapi.kakao.com/v2/maps/sdk.js?appkey=da8ab802f4c7c6f2e08cae85e0ea955a";
     script.async = true;
     script.onload = () => {
       const { kakao } = window;
